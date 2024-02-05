@@ -2,6 +2,10 @@
     padding: 0;
     margin: 0;
 }
+body {
+    background-image: url('https://e0.pxfuel.com/wallpapers/813/670/desktop-wallpaper-best-10-black-background-ideas-on-pinterest-flowers-background-iphone-red-and-floral-iphone.jpg');
+    background-size: cover;
+}
 
 .interface{
     background:linear-gradient(145deg,rgb(203, 196, 196),rgb(113, 102, 102));
